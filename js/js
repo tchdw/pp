@@ -1,0 +1,11 @@
+.l1{width:200px;
+    height:200px;
+    border:solid 50px red;
+    padding:50px;
+    margin:50px;}
+.l2{width:50%;
+    height:50%;
+    border:solid 50px red;
+    padding:50px;
+    margin:50px;
+}
