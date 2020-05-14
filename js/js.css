@@ -9,19 +9,19 @@ header{
 	margin:10px;}
 .left{
 	height:700px;
-	width:1024px;
+	width:50%;
 	border:2px black solid;
     padding:10px;
 	margin:20px;}
 .right{
 	height:700px;
-    width:1024px;
+    width:50px;
     border:2px black solid;
     padding:10px;
     margin:20px;}
 .down{
-	height:700px
-	width:2048;
+	height:400px
+	width:100%;
     border:2px black solid;
     padding:10px;
     margin:20px;}
