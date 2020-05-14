@@ -8,14 +8,16 @@ header{
 	padding:10px;
 	margin:10px;}
 .left{
+	float:left;
 	height:700px;
 	width:50%;
 	border:2px black solid;
     padding:10px;
 	margin:20px;}
 .right{
+	float:left;
 	height:700px;
-    width:50px;
+    width:50%;
     border:2px black solid;
     padding:10px;
     margin:20px;}
