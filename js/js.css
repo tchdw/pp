@@ -1,11 +1,25 @@
-.l1{width:200px;
-    height:200px;
-    border:solid 50px red;
-    padding:50px;
-    margin:50px;}
-.l2{width:50%;
-    height:50%;
-    border:solid 50px red;
-    padding:50px;
-    margin:50px;
-}
+body{
+	background:#e5e5e5;
+	border:double 2px gray;
+	padding:20px;
+	margin:20px;}
+header{
+	background:white;
+	padding:10px;
+	margin:10px;}
+.left{
+	border:2px black solid;
+    padding:10px;
+	margin:20px;}
+.right{
+    border:2px black solid;
+    padding:10px;
+    margin:20px;}
+.down{
+    border:2px black solid;
+    padding:10px;
+    margin:20px;}
+footer{
+	background:white;
+	margin:20px;
+	padding:10px;}
